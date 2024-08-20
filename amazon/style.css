@@ -15,6 +15,10 @@
     
 }
 
+textarea{
+    resize: none;
+}
+
 .logo-nav{
   
     height: 3.125rem;
@@ -99,6 +103,7 @@
 
 
 .search-nav textarea{
+    appearance: none; 
     flex-grow: 1;
     height: 2.2rem;
     line-height: 2.5rem;
