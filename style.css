@@ -332,7 +332,7 @@ ul{
     display: flex;
     justify-content: center;
     /* position: relative; */
-    background-image: url('../photos/hero_image.jpg'); 
+    background-image: url('hero_image.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
