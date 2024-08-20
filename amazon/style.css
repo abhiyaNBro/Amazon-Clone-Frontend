@@ -15,6 +15,7 @@ body{
     background-color: #131921;
     display: flex;
     align-items: center;
+    
 }
 
 .logo-nav{
@@ -87,7 +88,7 @@ body{
     width: 58rem;
     margin-left: 1%;
     margin-right: 0.4%;
-    
+    flex-grow: 1;
     display: flex;
     align-items: center;
 }
